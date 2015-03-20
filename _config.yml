@@ -1,0 +1,14 @@
+﻿encoding: utf-8
+name: KAIST Advanced Networking Lab
+description: Open-source project information for ANLAB, KAIST.
+author: Joongi Kim
+author_email: joongi@an.kaist.ac.kr
+highlighter: pygments
+markdown: kramdown
+baseurl:
+sass:
+    sass_dir: _sass
+    style: compressed
+kramdown:
+    input: GFM
+    hard_wrap: false
